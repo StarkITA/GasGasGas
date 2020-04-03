@@ -1,10 +1,10 @@
 {
     "name": "GasGasGas",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Gas Gas Gas! Faster Vehicles",
     "author": "starkita",
     "contact": "",
-    "homepage": "",
+    "homepage": "https://mods.factorio.com/mod/GasGasGas",
     "factorio_version": "0.18",
     "dependencies": ["base >= 0.18"],
     "description": "Faster vehicles all around."
