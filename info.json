@@ -1,0 +1,11 @@
+{
+    "name": "GasGasGas",
+    "version": "0.0.1",
+    "title": "Gas Gas Gas! Faster Vehicles",
+    "author": "starkita",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.18",
+    "dependencies": ["base >= 0.18"],
+    "description": "Faster vehicles all around."
+}
